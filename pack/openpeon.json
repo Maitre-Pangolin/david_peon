@@ -1,0 +1,302 @@
+{
+  "cesp_version": "1.0",
+  "name": "attenborough",
+  "display_name": "Sir David Attenborough",
+  "version": "1.0.0",
+  "description": "Real narration from BBC natural history programmes: squirrels at last, quarrelsome fish and sloths in a hurry. Clips cut from official BBC YouTube uploads; the audio is © BBC and is not licensed by this project.",
+  "author": {
+    "name": "david_peon"
+  },
+  "license": "LicenseRef-BBC-Copyright",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/FourMillionDifferentSolutionsToThe.wav",
+          "label": "Four million different solutions to the problems of staying alive.",
+          "sha256": "4400b0ec43ff866a07af0fac8b802d00cfd3b73f174d878d77fcd12682583d06"
+        },
+        {
+          "file": "sounds/AndThisIsIt.wav",
+          "label": "And this is it.",
+          "sha256": "25f45c1a154d70b67f0b26387adb1b129219537e16e22b1665c8e11141701f56"
+        },
+        {
+          "file": "sounds/HereTheyAreArcticWolves.wav",
+          "label": "Here they are, Arctic wolves.",
+          "sha256": "afdc88087a12379c6dc5aa998122484b6550382075f30c07a5519765f7038502"
+        },
+        {
+          "file": "sounds/ButJustNowTheBearsHave.wav",
+          "label": "But just now, the bears have something else on their minds.",
+          "sha256": "252ca470dfff602367c081c77646d2e7e72ec8fc94ddb38f560a697d7f91ddd6"
+        },
+        {
+          "file": "sounds/ItsTimeToEat.wav",
+          "label": "It's time to eat.",
+          "sha256": "70a6a387e2eb9c6700823eb94acd1fd819ed46eeb43dbe970f8ea4e6dbed5603"
+        },
+        {
+          "file": "sounds/JustKeepingWarmSapsHugeAmounts.wav",
+          "label": "Just keeping warm saps huge amounts of energy.",
+          "sha256": "3dbdb19dab1aab6a9a26a9245eec2eaaeaa348ed4ed447793dab675fa82e199c"
+        },
+        {
+          "file": "sounds/SlimPickingsForTheMorningsWork.wav",
+          "label": "Slim pickings for the morning's work.",
+          "sha256": "148903a936421dbf2c21f5b4afb9a6b2dc5392100da8ba7f7915f322f5410ff2"
+        },
+        {
+          "file": "sounds/ComeIntoMyMouthLittleFish.wav",
+          "label": "Come into my mouth, little fish.",
+          "sha256": "d0f89f2f073038b88f93edcc308d78eac18f2da0a66ff0a26b011c4840249a72"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/VeryWell.wav",
+          "label": "Very well.",
+          "sha256": "9f279c285f7ba46a41bcf2615784c99a55d86894ad3e4c77801b26bb5abada71"
+        },
+        {
+          "file": "sounds/PerhapsThisWillDo.wav",
+          "label": "Perhaps this will do.",
+          "sha256": "7b1a275154c06e252c6cdc50798d93237674c0c0363ce9638bd896453a05794b"
+        },
+        {
+          "file": "sounds/SoThePairNowWorkTogether.wav",
+          "label": "So the pair now work together.",
+          "sha256": "a405507f4f4358f1aa156016fe8d47aa726a9bbbfffcc983aff743e988aa4647"
+        },
+        {
+          "file": "sounds/TimeToStrike.wav",
+          "label": "Time to strike.",
+          "sha256": "5ef13342a050b9f2957b735fbee1a64482068038b17bea0639926694025c262d"
+        },
+        {
+          "file": "sounds/ItsNowOrNever.wav",
+          "label": "It's now or never.",
+          "sha256": "ea8ddf6598413461b9f8a8b3a0df88fd2f26aa694bb2a3885909eca33bb1cc3c"
+        },
+        {
+          "file": "sounds/SoHeMustChooseHisTarget.wav",
+          "label": "So he must choose his target with care.",
+          "sha256": "a5b1a8b63b0edca568eb4389a3aa6b7d5947adb20ab925d0742ff23da5d9f532"
+        },
+        {
+          "file": "sounds/HesGoingToHaveToUse.wav",
+          "label": "He's going to have to use trickery.",
+          "sha256": "13d3fa9f1ab9e355acd859334d45484edda76aef02330a6c2f834a77fbf85c27"
+        },
+        {
+          "file": "sounds/TheOnlyOptionAGoodOld.wav",
+          "label": "The only option? A good old scratch.",
+          "sha256": "702e244a16698f4051b8c83940997282dcfca04ebd04ce12b2657fb652ba20f8"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/AtLastASquirrel.wav",
+          "label": "At last, a squirrel.",
+          "sha256": "4aba903523a38a7fbba8d996f6545b3938c7bc30d9a8bada82476234e596da80"
+        },
+        {
+          "file": "sounds/NotMuchButEnoughToKeep.wav",
+          "label": "Not much, but enough to keep him going.",
+          "sha256": "d62d35830e179dcee457a9b0ad4710b21319af6a8b0c1708f64c1be8465577db"
+        },
+        {
+          "file": "sounds/ASafeNurseryAtLast.wav",
+          "label": "A safe nursery at last.",
+          "sha256": "6b2b3707d0f08bca54dc3ca7d8249bc4a9466a5393ed3457c45dc1c7a94da01e"
+        },
+        {
+          "file": "sounds/ScarfaceHasWon.wav",
+          "label": "Scarface has won.",
+          "sha256": "b240caaf2f468552bb6164bcab354fffcf904188fb2a099b13c892b80fbcbcee"
+        },
+        {
+          "file": "sounds/ANearMiraculousEscape.wav",
+          "label": "A near miraculous escape.",
+          "sha256": "df8ef40152d1794d49696c10a1d5054ca7aeefcf2358ad93133b36d79089cb3b"
+        },
+        {
+          "file": "sounds/ItchesSatisfactorilyScratched.wav",
+          "label": "Itches satisfactorily scratched.",
+          "sha256": "1b6dfa27177c81ec1bde90455e835acce6b2b4ea40c79c588bb96173013c9b84"
+        },
+        {
+          "file": "sounds/SuccessAndItsQuickToGet.wav",
+          "label": "Success, and it's quick to get back to its shell.",
+          "sha256": "aaeb812497300588f33cb6075043a76ce7022804244bf91cc87a1fe8edb3fb71"
+        },
+        {
+          "file": "sounds/TheBisonHaveReachedTheirGoal.wav",
+          "label": "The bison have reached their goal.",
+          "sha256": "9bb3b6217cac98979c3f38b055d4b6481b47e89919153a6021fcb107993b6946"
+        },
+        {
+          "file": "sounds/AndTheParentsCarefulTimingHas.wav",
+          "label": "And the parents' careful timing has paid off.",
+          "sha256": "11236efbe29dd91bd48d3f66f258d8a0333b99e8dc68555182805d06b6c7a47d"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/ThisMagnificentCreaturePreparingWhoops.wav",
+          "label": "This magnificent creature preparing... Whoops!",
+          "sha256": "0477b9b9ed770ec373d12a413cfe371f68368305c64e314da9ec23c3b6bcb413"
+        },
+        {
+          "file": "sounds/TooHeavy.wav",
+          "label": "Too heavy.",
+          "sha256": "9cc4c9702809a6dad4872fc731a3bfb609756e12dc2e5aa6262a836b3dd18874"
+        },
+        {
+          "file": "sounds/NotHeavyEnough.wav",
+          "label": "Not heavy enough.",
+          "sha256": "d02f75de60ea146055ce73f654a69563a502c1752f6d29900d005c0077248030"
+        },
+        {
+          "file": "sounds/AGilaMonsterTooBig.wav",
+          "label": "A Gila monster. Too big.",
+          "sha256": "27c3f421834e866de57375962507d63be41223fdc2762647a7a9edac11d3b8cf"
+        },
+        {
+          "file": "sounds/OthersAreNotSoLucky.wav",
+          "label": "Others are not so lucky.",
+          "sha256": "62775ef2ce401fce295c888d7415ed9e7fc2127b819edf049c6e40df33cdddf3"
+        },
+        {
+          "file": "sounds/BlindedAndConfusedTheyreDoomed.wav",
+          "label": "Blinded and confused, they're doomed.",
+          "sha256": "7bfbb10e45cd1c89b82aff659de7d1bbc8e10024f9b541b1284a3cc756bc280f"
+        },
+        {
+          "file": "sounds/ItSlipsFromHisGrasp.wav",
+          "label": "It slips from his grasp.",
+          "sha256": "2ee5fc761731c10ff745f6c02bf668e2f3c2c8eda36831c1b76f7088daec5694"
+        },
+        {
+          "file": "sounds/PerhapsYoullHaveMoreLuckOn.wav",
+          "label": "Perhaps you'll have more luck on the other side.",
+          "sha256": "9884f47be47ff5d0a2d9b1015a7f86ed33a9de8232271db0b13d6c85edd8a78b"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/SomeItchesJustHaveToBe.wav",
+          "label": "Some itches just have to be scratched.",
+          "sha256": "a50039769b71ca85dcc13f7944e18ba1cf37284250817754f1b462d387042d39"
+        },
+        {
+          "file": "sounds/TermitesNotEasyToCatchWhen.wav",
+          "label": "Termites. Not easy to catch when you're blind.",
+          "sha256": "0a3cc8572b0bd75b2603f5d7bcdef0222f30be9c133720ce20c47e6bf66332bd"
+        },
+        {
+          "file": "sounds/HeMustntMove.wav",
+          "label": "He mustn't move.",
+          "sha256": "b2cdd9f41b696bcf04540c2453f4fa63e0e9c4795901f66a626d6cb7dac5ffa7"
+        },
+        {
+          "file": "sounds/ButHeMustntBreakThroughYet.wav",
+          "label": "But he mustn't break through... yet.",
+          "sha256": "6a5a2abe8a30c979f5fb8e6f3b81442833db27f3767ee0651b4f52d38ce3238b"
+        },
+        {
+          "file": "sounds/TheySimplyOpenTheirMouthsAnd.wav",
+          "label": "They simply open their mouths and wait.",
+          "sha256": "736a44fbedee45a56784178220cf76f826cfea23c08ddc919aa1fbbf8c7eb484"
+        },
+        {
+          "file": "sounds/AllItCanDoIsWait.wav",
+          "label": "All it can do is wait for one to slip and fall.",
+          "sha256": "320a798bfba2a68559aa492ab147ad5722f377945f77c161671d812a8f0ecc9d"
+        },
+        {
+          "file": "sounds/ThereMustBeAChinkIn.wav",
+          "label": "There must be a chink in the armour somewhere.",
+          "sha256": "2e7c4a4b281ebba7003fd4153a11f4d524fddc75482013fceaa9cf8f72a5ec7b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/GoliathIsDeceived.wav",
+          "label": "Goliath is deceived.",
+          "sha256": "f08942f11c483a3682274d05142a7630be63166284d81e39ad28d6b3d237d25a"
+        },
+        {
+          "file": "sounds/ButHavingABeakLongerThan.wav",
+          "label": "But having a beak longer than your body does have its drawbacks.",
+          "sha256": "7ec23fe937453072c90a8dca66222570ef7a642c3e7de1a529212482d67bbacc"
+        },
+        {
+          "file": "sounds/TheLionsAreExhausted.wav",
+          "label": "The lions are exhausted.",
+          "sha256": "13c25aaa8204f31b68041dfabbf11b05164759deea44a837968726e141d59a6e"
+        },
+        {
+          "file": "sounds/TheSlothsWayOfCompensatingFor.wav",
+          "label": "The sloth's way of compensating for that is not to eat more, but to do less.",
+          "sha256": "4028cf606d9bf36ffef3a06d572b73251fa38514ecde243fc19efc568978bd69"
+        },
+        {
+          "file": "sounds/ItsBeenGettingThinner.wav",
+          "label": "It's been getting thinner.",
+          "sha256": "bbdee66b8535b0d5011fb9cb4ed79fe112a0fdb4f7cf28cea3d0b622ba37014b"
+        },
+        {
+          "file": "sounds/TheresTooMuchCompetition.wav",
+          "label": "There's too much competition.",
+          "sha256": "d7553485d6171abeb1abc600039a321bfb45121ef007aa5189e3f9b8432c183c"
+        },
+        {
+          "file": "sounds/ItsNowMinus40.wav",
+          "label": "It's now minus 40.",
+          "sha256": "d718ab9a603fbf359402225fe61b3ae963a19bc887f13261d436ca715752850e"
+        },
+        {
+          "file": "sounds/ExhaustedFromHisSwimTheBear.wav",
+          "label": "Exhausted from his swim, the bear must regain his strength.",
+          "sha256": "f22be8f2ef2f79ea841b0b0cf4cffc0160dc62e80f1d06d32d9f1299f1db2d8b"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/Boo.wav",
+          "label": "Boo!",
+          "sha256": "82e2b1af560a42b532381ad541876701aed125b8c8c2af186314dd4b71d50ed2"
+        },
+        {
+          "file": "sounds/ThisIsAVeryUnusualSight.wav",
+          "label": "This is a very unusual sight, a sloth in a hurry.",
+          "sha256": "aca293603229fa929e006e3a7b5db401a966681d8386060d2fd4b37e67a4f6f4"
+        },
+        {
+          "file": "sounds/TheseFishAreExceptionallyQuarrelsome.wav",
+          "label": "These fish are exceptionally quarrelsome.",
+          "sha256": "4b6654ee8c3538a3b93b6bb23686a1b91d203e3858ae3c2db68bc445e55987e9"
+        },
+        {
+          "file": "sounds/ThereIsMoreToThisBehaviour.wav",
+          "label": "There is more to this behaviour than being bad-tempered.",
+          "sha256": "b3a174b79a54cd8a3572acd8d5276bb0fcfc7ecfee8becb8410741761533fa11"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Full-length source downloads (large) – only the cut clips in pack/sounds/ are published
+sources/
+# Intermediate work: transcripts, candidate cuts, previews
+work/
+.DS_Store

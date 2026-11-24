@@ -1,0 +1,53 @@
+event	source	start	end	adj_start	adj_end	text
+session.start	czgc56Vfz4w	00:40.68	00:44.76	0.0	0.0	Four million different solutions to the problems of staying alive.
+session.start	leDm_-nfr2w	01:09.06	01:10.38	0.0	0.0	And this is it.
+session.start	f828q6MHOkY	35:57.24	36:01.50	0.0	0.0	Here they are, Arctic wolves.
+session.start	f828q6MHOkY	12:57.82	13:02.00	0.0	0.0	But just now, the bears have something else on their minds.
+session.start	f828q6MHOkY	15:29.48	15:31.40	0.0	0.0	It's time to eat.
+session.start	f828q6MHOkY	31:36.20	31:39.84	0.0	0.0	Just keeping warm saps huge amounts of energy.
+session.start	hBO70igBtts	27:37.80	27:40.42	0.0	0.0	Slim pickings for the morning's work.
+session.start	hBO70igBtts	05:48.70	05:51.08	0.0	0.0	Come into my mouth, little fish.
+task.acknowledge	2TJaNDBI87s	00:50.34	00:51.42	0.0	0.0	Very well.
+task.acknowledge	rn6R4ncd2OU	03:09.70	03:11.36	0.0	0.0	Perhaps this will do.
+task.acknowledge	rn6R4ncd2OU	04:18.14	04:21.24	0.0	0.0	So the pair now work together.
+task.acknowledge	hBO70igBtts	60:36.86	60:38.30	0.0	0.0	Time to strike.
+task.acknowledge	hBO70igBtts	35:49.82	35:51.80	0.0	0.0	It's now or never.
+task.acknowledge	f828q6MHOkY	09:42.18	09:44.84	0.0	0.0	So he must choose his target with care.
+task.acknowledge	hBO70igBtts	03:01.52	03:03.82	0.0	0.0	He's going to have to use trickery.
+task.acknowledge	f828q6MHOkY	18:46.94	18:50.42	0.0	0.0	The only option? A good old scratch.
+task.complete	f828q6MHOkY	11:30.08	11:31.82	0.0	0.0	At last, a squirrel.
+task.complete	f828q6MHOkY	11:33.72	11:37.10	0.0	0.0	Not much, but enough to keep him going.
+task.complete	rn6R4ncd2OU	05:20.34	05:22.74	0.0	0.0	A safe nursery at last.
+task.complete	hBO70igBtts	61:35.16	61:37.00	0.0	0.0	Scarface has won.
+task.complete	f828q6MHOkY	03:49.08	03:51.58	0.0	0.0	A near miraculous escape.
+task.complete	f828q6MHOkY	15:26.52	15:28.88	0.0	0.0	Itches satisfactorily scratched.
+task.complete	hBO70igBtts	44:11.70	44:15.12	0.0	0.0	Success, and it's quick to get back to its shell.
+task.complete	f828q6MHOkY	33:43.28	33:46.00	0.0	0.0	The bison have reached their goal.
+task.complete	hBO70igBtts	31:43.00	31:46.40	0.0	0.0	And the parents' careful timing has paid off.
+task.error	leDm_-nfr2w	09:01.76	09:06.64	0.0	0.0	This magnificent creature preparing... Whoops!
+task.error	rn6R4ncd2OU	02:29.98	02:30.96	0.0	0.0	Too heavy.
+task.error	rn6R4ncd2OU	03:18.84	03:20.60	0.0	0.0	Not heavy enough.
+task.error	hBO70igBtts	26:56.58	27:00.06	0.0	0.0	A Gila monster. Too big.
+task.error	hBO70igBtts	40:25.06	40:27.12	0.0	0.0	Others are not so lucky.
+task.error	f828q6MHOkY	06:54.36	06:58.50	0.0	0.0	Blinded and confused, they're doomed.
+task.error	hBO70igBtts	36:26.46	36:28.70	0.0	0.0	It slips from his grasp.
+task.error	f828q6MHOkY	10:34.10	10:37.24	0.0	0.0	Perhaps you'll have more luck on the other side.
+input.required	f828q6MHOkY	13:44.72	13:47.70	0.0	0.0	Some itches just have to be scratched.
+input.required	f828q6MHOkY	26:13.86	26:17.82	0.0	0.0	Termites. Not easy to catch when you're blind.
+input.required	f828q6MHOkY	20:42.80	20:44.20	0.0	0.0	He mustn't move.
+input.required	f828q6MHOkY	34:11.34	34:14.56	0.0	0.0	But he mustn't break through... yet.
+input.required	hBO70igBtts	22:42.19	22:46.04	0.0	0.0	They simply open their mouths and wait.
+input.required	vTSVzeOdj8A	00:01.78	00:05.30	0.0	0.0	All it can do is wait for one to slip and fall.
+input.required	hBO70igBtts	34:18.66	34:21.18	0.0	0.0	There must be a chink in the armour somewhere.
+resource.limit	hBO70igBtts	03:40.70	03:42.46	0.0	0.0	Goliath is deceived.
+resource.limit	f828q6MHOkY	18:04.30	18:08.44	0.0	0.0	But having a beak longer than your body does have its drawbacks.
+resource.limit	hBO70igBtts	47:30.46	47:32.72	0.0	0.0	The lions are exhausted.
+resource.limit	leDm_-nfr2w	18:41.00	18:45.42	0.0	0.0	The sloth's way of compensating for that is not to eat more, but to do less.
+resource.limit	hBO70igBtts	29:46.00	29:47.56	0.0	0.0	It's been getting thinner.
+resource.limit	hBO70igBtts	44:20.46	44:21.68	0.0	0.0	There's too much competition.
+resource.limit	f828q6MHOkY	31:50.74	31:52.86	0.0	0.0	It's now minus 40.
+resource.limit	hBO70igBtts	33:16.48	33:20.52	0.0	0.0	Exhausted from his swim, the bear must regain his strength.
+user.spam	leDm_-nfr2w	16:57.12	16:57.76	0.0	0.0	Boo!
+user.spam	leDm_-nfr2w	17:48.30	17:52.96	0.0	0.0	This is a very unusual sight, a sloth in a hurry.
+user.spam	hBO70igBtts	41:42.38	41:45.56	0.0	0.0	These fish are exceptionally quarrelsome.
+user.spam	hBO70igBtts	42:49.28	42:52.46	0.0	0.0	There is more to this behaviour than being bad-tempered.

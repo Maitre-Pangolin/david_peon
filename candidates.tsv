@@ -1,0 +1,81 @@
+event	source	start	end	text	note
+session.start	czgc56Vfz4w	00:45.22	00:49.40	This is the story of how a few of them came to be as they are.	Life on Earth opening, to camera
+session.start	czgc56Vfz4w	00:40.68	00:44.76	Four million different solutions to the problems of staying alive.	Life on Earth opening
+session.start	leDm_-nfr2w	01:09.06	01:10.38	And this is it.
+session.start	f828q6MHOkY	35:57.24	36:01.50	Here they are, Arctic wolves.
+session.start	leDm_-nfr2w	06:14.20	06:15.74	And here comes a male.
+session.start	2TJaNDBI87s	00:21.28	00:23.36	Close up!	bird blooper, to camera
+session.start	f828q6MHOkY	12:57.82	13:02.00	But just now, the bears have something else on their minds.
+session.start	f828q6MHOkY	15:29.48	15:31.40	It's time to eat.
+task.acknowledge	2TJaNDBI87s	00:50.34	00:51.42	Very well.	to camera
+task.acknowledge	rn6R4ncd2OU	03:09.70	03:11.36	Perhaps this will do.
+task.acknowledge	rn6R4ncd2OU	04:18.14	04:21.24	So the pair now work together.
+task.acknowledge	hBO70igBtts	60:36.86	60:38.30	Time to strike.
+task.acknowledge	hBO70igBtts	35:49.82	35:51.80	It's now or never.
+task.acknowledge	f828q6MHOkY	34:06.16	34:08.46	Every footstep counts.
+task.acknowledge	f828q6MHOkY	09:42.18	09:44.84	So he must choose his target with care.
+task.acknowledge	hBO70igBtts	03:01.52	03:03.82	He's going to have to use trickery.
+task.acknowledge	f828q6MHOkY	26:21.68	26:24.80	Far better to go into stealth mode.
+task.acknowledge	f828q6MHOkY	18:46.94	18:50.42	The only option? A good old scratch.
+task.acknowledge	f828q6MHOkY	13:44.72	13:47.70	Some itches just have to be scratched.
+task.acknowledge	leDm_-nfr2w	15:32.84	15:35.18	This old lady loves DIY.
+task.complete	f828q6MHOkY	11:30.08	11:31.82	At last, a squirrel.
+task.complete	f828q6MHOkY	11:33.72	11:37.10	Not much, but enough to keep him going.
+task.complete	rn6R4ncd2OU	05:20.34	05:22.74	A safe nursery at last.
+task.complete	hBO70igBtts	61:35.16	61:37.00	Scarface has won.
+task.complete	hBO70igBtts	61:41.86	61:45.14	And he returns to a hero's welcome.
+task.complete	f828q6MHOkY	19:27.42	19:28.52	Danger past.
+task.complete	f828q6MHOkY	03:49.08	03:51.58	A near miraculous escape.
+task.complete	f828q6MHOkY	15:26.52	15:28.88	Itches satisfactorily scratched.
+task.complete	hBO70igBtts	44:11.70	44:15.12	Success, and it's quick to get back to its shell.
+task.complete	f828q6MHOkY	23:10.32	23:13.78	He's managed to save most of his young.
+task.complete	f828q6MHOkY	33:43.28	33:46.00	The bison have reached their goal.
+task.complete	hBO70igBtts	31:43.00	31:46.40	And the parents' careful timing has paid off.
+task.complete	hBO70igBtts	03:40.70	03:42.46	Goliath is deceived.
+task.complete	hBO70igBtts	09:46.76	09:49.46	Ah, now it looks as though he's really got it.	ear-check: Attenborough or scientist?
+task.error	leDm_-nfr2w	09:01.76	09:06.64	This magnificent creature preparing... Whoops!	blooper; ear-check
+task.error	rn6R4ncd2OU	02:29.98	02:30.96	Too heavy.
+task.error	rn6R4ncd2OU	03:18.84	03:20.60	Not heavy enough.
+task.error	hBO70igBtts	26:56.58	27:00.06	A Gila monster. Too big.
+task.error	hBO70igBtts	40:25.06	40:27.12	Others are not so lucky.
+task.error	f828q6MHOkY	06:54.36	06:58.50	Blinded and confused, they're doomed.
+task.error	hBO70igBtts	36:26.46	36:28.70	It slips from his grasp.
+task.error	f828q6MHOkY	30:45.46	30:48.98	A missed kick, and it's all over.
+task.error	hBO70igBtts	34:25.44	34:26.46	Not here.
+task.error	f828q6MHOkY	26:13.86	26:17.82	Termites. Not easy to catch when you're blind.
+task.error	hBO70igBtts	35:10.00	35:13.40	Having failed with one, he heads straight for another.
+task.error	f828q6MHOkY	10:34.10	10:37.24	Perhaps you'll have more luck on the other side.
+task.error	f828q6MHOkY	18:04.30	18:08.44	But having a beak longer than your body does have its drawbacks.
+task.error	f828q6MHOkY	29:47.82	29:49.22	No!	ear-check: may be misheard animal sound
+input.required	f828q6MHOkY	20:42.80	20:44.20	He mustn't move.
+input.required	f828q6MHOkY	09:59.88	10:02.20	But can he get close enough to pounce?
+input.required	f828q6MHOkY	11:07.24	11:09.68	If only he could get to it.
+input.required	f828q6MHOkY	34:11.34	34:14.56	But he mustn't break through... yet.
+input.required	hBO70igBtts	22:42.19	22:46.04	They simply open their mouths and wait.
+input.required	vTSVzeOdj8A	00:01.78	00:05.30	All it can do is wait for one to slip and fall.
+input.required	hBO70igBtts	34:18.66	34:21.18	There must be a chink in the armour somewhere.
+input.required	leDm_-nfr2w	18:25.80	18:30.78	Why it comes down in this way is a mystery. Nobody knows.
+input.required	czgc56Vfz4w	01:43.02	01:45.30	You know, we want to know what happens next.	interview
+input.required	hBO70igBtts	09:39.86	09:43.12	Back there. Where is it?	ear-check: Attenborough or scientist?
+resource.limit	hBO70igBtts	47:30.46	47:32.72	The lions are exhausted.
+resource.limit	leDm_-nfr2w	18:41.00	18:45.42	The sloth's way of compensating for that is not to eat more, but to do less.
+resource.limit	hBO70igBtts	29:46.00	29:47.56	It's been getting thinner.
+resource.limit	hBO70igBtts	44:20.46	44:21.68	There's too much competition.
+resource.limit	leDm_-nfr2w	18:38.40	18:40.12	Leaves are not very nutritious.
+resource.limit	f828q6MHOkY	31:36.20	31:39.84	Just keeping warm saps huge amounts of energy.
+resource.limit	f828q6MHOkY	31:50.74	31:52.86	It's now minus 40.
+resource.limit	f828q6MHOkY	12:29.68	12:34.12	But in these mountains, the good times will not last long.
+resource.limit	hBO70igBtts	27:37.80	27:40.42	Slim pickings for the morning's work.
+resource.limit	hBO70igBtts	33:16.48	33:20.52	Exhausted from his swim, the bear must regain his strength.
+resource.limit	f828q6MHOkY	15:23.52	15:25.66	But summer is short.
+user.spam	leDm_-nfr2w	16:57.12	16:57.76	Boo!	sloth, to camera
+user.spam	leDm_-nfr2w	17:48.30	17:52.96	This is a very unusual sight, a sloth in a hurry.
+user.spam	hBO70igBtts	35:42.10	35:44.42	He seems increasingly desperate.
+user.spam	leDm_-nfr2w	21:35.00	21:35.78	And again.	lyrebird
+user.spam	leDm_-nfr2w	21:49.00	21:50.94	And that's a car alarm.	lyrebird
+user.spam	leDm_-nfr2w	21:00.34	21:02.10	Even the original is fooled.
+user.spam	hBO70igBtts	41:42.38	41:45.56	These fish are exceptionally quarrelsome.
+user.spam	hBO70igBtts	42:49.28	42:52.46	There is more to this behaviour than being bad-tempered.
+user.spam	hBO70igBtts	05:48.70	05:51.08	Come into my mouth, little fish.
+user.spam	hBO70igBtts	08:58.20	09:00.74	Oh! Oh, my goodness!	ear-check: Attenborough or scientist?
+user.spam	aIovmgzyuL0	02:33.32	02:34.12	Ha ha ha!	ear-check: may not be him
