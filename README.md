@@ -6,11 +6,10 @@ A [peon-ping](https://github.com/PeonPing/peon-ping) sound pack for Claude Code 
 
 ## Install
 
-Requires [peon-ping](https://github.com/PeonPing/peon-ping).
+Requires [peon-ping](https://github.com/PeonPing/peon-ping). The pack is in the [peon-ping registry](https://github.com/PeonPing/registry):
 
 ```bash
-git clone https://github.com/Maitre-Pangolin/david_peon.git
-peon packs install-local david_peon/pack
+peon packs install attenborough
 peon packs use attenborough
 ```
 
