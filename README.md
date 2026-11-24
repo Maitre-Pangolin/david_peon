@@ -2,7 +2,7 @@
 
 A [peon-ping](https://github.com/PeonPing/peon-ping) sound pack for Claude Code made of real Sir David Attenborough narration: 52 short lines from BBC natural history programmes, mapped to peon-ping's 7 events.
 
-> “At last, a squirrel.” — now playing every time Claude Code finishes a task.
+> “At last, a squirrel.” — one of 9 lines that can play when Claude Code finishes a task.
 
 ## Install
 
