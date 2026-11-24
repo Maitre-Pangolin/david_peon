@@ -24,7 +24,7 @@ task.complete	f828q6MHOkY	15:26.52	15:28.88	0.0	0.0	Itches satisfactorily scratc
 task.complete	hBO70igBtts	44:11.70	44:15.12	0.0	0.0	Success, and it's quick to get back to its shell.
 task.complete	f828q6MHOkY	33:43.28	33:46.00	0.0	0.0	The bison have reached their goal.
 task.complete	hBO70igBtts	31:43.00	31:46.40	0.0	0.0	And the parents' careful timing has paid off.
-task.error	leDm_-nfr2w	09:01.76	09:06.64	0.0	0.0	This magnificent creature preparing... Whoops!
+task.error	leDm_-nfr2w	09:01.76	09:06.64	0.0	-0.35	This magnificent creature preparing... Whoops!
 task.error	rn6R4ncd2OU	02:29.98	02:30.96	0.0	0.0	Too heavy.
 task.error	rn6R4ncd2OU	03:18.84	03:20.60	0.0	0.0	Not heavy enough.
 task.error	hBO70igBtts	26:56.58	27:00.06	0.0	0.0	A Gila monster. Too big.
@@ -48,6 +48,6 @@ resource.limit	hBO70igBtts	44:20.46	44:21.68	0.0	0.0	There's too much competitio
 resource.limit	f828q6MHOkY	31:50.74	31:52.86	0.0	0.0	It's now minus 40.
 resource.limit	hBO70igBtts	33:16.48	33:20.52	0.0	0.0	Exhausted from his swim, the bear must regain his strength.
 user.spam	leDm_-nfr2w	16:57.12	16:57.76	0.0	0.0	Boo!
-user.spam	leDm_-nfr2w	17:48.30	17:52.96	0.0	0.0	This is a very unusual sight, a sloth in a hurry.
+user.spam	leDm_-nfr2w	17:48.30	17:52.96	0.1	-0.1	This is a very unusual sight, a sloth in a hurry.
 user.spam	hBO70igBtts	41:42.38	41:45.56	0.0	0.0	These fish are exceptionally quarrelsome.
 user.spam	hBO70igBtts	42:49.28	42:52.46	0.0	0.0	There is more to this behaviour than being bad-tempered.

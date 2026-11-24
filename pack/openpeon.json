@@ -152,7 +152,7 @@
         {
           "file": "sounds/ThisMagnificentCreaturePreparingWhoops.wav",
           "label": "This magnificent creature preparing... Whoops!",
-          "sha256": "0477b9b9ed770ec373d12a413cfe371f68368305c64e314da9ec23c3b6bcb413"
+          "sha256": "6aecf87deba7fec8e462051ed8b8e9646c8bb1d80469693ccad23c140e477f0f"
         },
         {
           "file": "sounds/TooHeavy.wav",
@@ -284,7 +284,7 @@
         {
           "file": "sounds/ThisIsAVeryUnusualSight.wav",
           "label": "This is a very unusual sight, a sloth in a hurry.",
-          "sha256": "aca293603229fa929e006e3a7b5db401a966681d8386060d2fd4b37e67a4f6f4"
+          "sha256": "487a34fd5a0ae11004ce66535a8af05db9cb342e3036922dac5fa2091fdaafe2"
         },
         {
           "file": "sounds/TheseFishAreExceptionallyQuarrelsome.wav",

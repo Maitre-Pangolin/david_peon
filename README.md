@@ -32,7 +32,7 @@ The full list, with source video and timestamps, is in [`picks.tsv`](picks.tsv).
 
 ## Audio rights
 
-The clips are cut from official uploads on the BBC and BBC Earth YouTube channels. The audio is © BBC; this project claims no rights to it and does not license it. The clips are 1–5 seconds each and shared for fun, non-commercially. If you are a rights holder and want them removed, open an issue and they will be taken down.
+The clips are cut from official uploads on the BBC and BBC Earth YouTube channels. The audio is © BBC; this project claims no rights to it and does not license it. The clips are 1–5 seconds each and shared for fun, non-commercially. If you are a rights holder and want them removed, open an issue and they will be taken down. The code and documentation are MIT licensed; see [LICENSE](LICENSE).
 
 Every line is a real recording. No voice cloning or synthetic speech was used.
 
