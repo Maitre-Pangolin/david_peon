@@ -3,3 +3,5 @@ sources/
 # Intermediate work: transcripts, candidate cuts, previews
 work/
 .DS_Store
+# Slide deck sources, published as a Claude artifact only
+docs/deck/

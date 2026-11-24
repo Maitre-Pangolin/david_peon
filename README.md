@@ -53,8 +53,6 @@ Built in one Claude Code session. The pipeline is reproducible from the scripts 
 
 To rebuild the pack from `picks.tsv` (after downloading the sources): `scripts/build_pack.py`. Tools: `yt-dlp`, `ffmpeg`, Python 3, and `mlx-whisper` (Apple Silicon) for step 2.
 
-The story of the session, as a slide deck, is in [`docs/deck/`](docs/deck/).
-
 ## Sources
 
 | ID | Title | Length |
